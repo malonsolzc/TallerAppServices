@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'miportafolioaxel'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e4ce06ff7918476b93f033f6c2272069 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_626005a8822e472ab9015859edc9a2a9 }}
         package: .
